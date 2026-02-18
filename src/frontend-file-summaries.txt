@@ -1,0 +1,13 @@
+{
+  "frontend/src/App.tsx": "Main application component that sets up TanStack Router with routes for Home, About, Menu, Gallery, and Contact pages, all wrapped in the SiteLayout component.",
+  "frontend/src/components/SiteLayout.tsx": "Persistent layout component with header (logo, navigation), main content area, and footer (address, contact info, social links, attribution).",
+  "frontend/src/pages/HomePage.tsx": "Home page featuring restaurant name, tagline, welcome message, hero image, opening hours, and CTA buttons for calling and ordering online.",
+  "frontend/src/pages/AboutPage.tsx": "About page displaying restaurant history (started 2020 in Meerut), mission statement, and four key highlights with icons.",
+  "frontend/src/pages/MenuPage.tsx": "Menu page organized into four categorized sections (Veg, Non-Veg, Breads, Beverages) with items and prices in rupees.",
+  "frontend/src/pages/GalleryPage.tsx": "Gallery page with three sections (Interior, Food, Party) displaying responsive image tiles from local static assets.",
+  "frontend/src/pages/ContactPage.tsx": "Contact page with address, clickable phone/email links, opening hours, and embedded Google Maps iframe.",
+  "frontend/index.css": "Global styles with warm, restaurant-themed OKLCH color palette (terracotta/burnt orange primary, cream secondary) for both light and dark modes.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended theme for warm color palette, custom shadows, and typography settings.",
+  "frontend/src/main.tsx": "Application entry point that sets up React Query, Internet Identity provider, and renders the App component with correct CSS import path.",
+  "frontend/src/index.css": "Global styles with warm, restaurant-themed OKLCH color palette (terracotta/burnt orange primary, cream secondary) for both light and dark modes."
+}
